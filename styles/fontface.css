@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Prompt-Regular";
+  src: url(/fonts/Prompt-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Prompt-Medium";
+  src: url(/fonts/Prompt-Medium.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Prompt-SemiBold";
+  src: url(/fonts/Prompt-SemiBold.ttf) format("truetype");
+}
